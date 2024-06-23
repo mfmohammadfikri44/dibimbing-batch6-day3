@@ -1,4 +1,3 @@
-![4  git commit](https://github.com/mfmohammadfikri44/dibimbing-batch6-day3/assets/173480140/c98f5d6e-1457-4123-b8da-0c92cd3e9b91)# dibimbing-batch6-day3
 initial project in dibimbing batch 6 day 3
 
 1. Clone repository
